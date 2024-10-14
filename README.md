@@ -3,9 +3,9 @@
 > Pili, Camarines Sur
 
 **Hobies**
-> - Playing basketball
-> - Listening to music
-> - Eating
+ 1. Playing basketball
+ 2. Listening to music
+ 3. Eating
 
 **Social Media**
  > - [Facebook](https://www.facebook.com/bitri.bulaotria)
